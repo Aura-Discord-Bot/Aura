@@ -5,7 +5,7 @@ Simple multi-purpose Discord bot made with TypeScript-> https://auramm.xyz
 
 ![Aura Avatar](https://i.ibb.co/tmF2Wrc/aura-smol.png)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f18b5eb590f74d3aa5ba353d881b412c)))](https://www.codacy.com/gh/Aura-Discord-Bot/Aura/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aura-Discord-Bot/Aura&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f18b5eb590f74d3aa5ba353d881b412c)](https://www.codacy.com/gh/Aura-Discord-Bot/Aura/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aura-Discord-Bot/Aura&amp;utm_campaign=Badge_Grade)
 
 ## Config
 `config.json` example:
